@@ -1,6 +1,7 @@
 # Simple object detection app using yolov5s pytorch model.(yolov5s.pt)  
 
-The **'my_simple_yolov5_torch'** is python object detection application without yolov5's python modules. 
+The **'my_simple_yolov5_torch'** is python object detection application without yolov5's python modules. (tested jetson nano)  
+
 
 
 
